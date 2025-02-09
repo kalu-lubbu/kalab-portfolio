@@ -1,0 +1,22 @@
+{
+    "skills": [
+      {
+        "title": "Web Development",
+        "description": "Building responsive and interactive websites using HTML, CSS, JavaScript, and frameworks like React."
+      },
+      {
+        "title": "UI/UX Design",
+        "description": "Creating user-friendly interfaces and experiences with a focus on usability and aesthetics."
+      },
+      {
+        "title": "Mobile Development",
+        "description": "Developing mobile applications for iOS and Android platforms using tools like Flutter or React Native."
+      },
+      {
+        "title": "Database Management",
+        "description": "Managing databases using SQL, NoSQL, and ensuring data integrity and security."
+      }
+    
+    ]
+  }
+  

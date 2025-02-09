@@ -1,0 +1,19 @@
+{
+    "testimonial": [
+      {
+        "rating": 5,
+        "description": "Excellent service, highly recommend!",
+        "src": "link_to_avatar_image_one",
+        "author_name": "John Doe",
+        "author_designation": "CEO, Company One"
+      },
+      {
+        "rating": 4,
+        "description": "Very satisfied with the outcome.",
+        "src": "link_to_avatar_image_two",
+        "author_name": "Jane Smith",
+        "author_designation": "CTO, Company Two"
+      }
+    ]
+  }
+  
