@@ -1,6 +1,5 @@
-
 import ContactMe from "./ContactMe";
-import Testimonial from "./Testimonials";
+
 import MySkills from "./MySkills";
 import MyPortfolio from "./MyPortfolio.jsx";
 import Footer from "./Footer";
@@ -11,18 +10,16 @@ import Navbar from "./Navbar.jsx";
 export default function App() {
   return (
     <>
-   <Navbar/>
-    <HeroSection />
-    <MyPortfolio/>
-    <MySkills/>
+      <Navbar />
+      <HeroSection />
+      <MyPortfolio />
+      <MySkills />
 
-    <AboutMe/>
-    
-   
-    <ContactMe/>
-    
-    <Footer/>
-     
+      <AboutMe />
+
+      <ContactMe />
+
+      <Footer />
     </>
   );
 }
