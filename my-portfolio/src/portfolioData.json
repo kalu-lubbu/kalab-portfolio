@@ -3,20 +3,20 @@
     {
       "title": "Next Gneration Payment Method",
       "description": "A futuristic payment platform enabling instant, secure, and seamless transactions with cutting-edge technology.",
-      "src": "/public/Next_genration_payment_method.png",
+      "src": "/Next_genration_payment_method.png",
       "link": "https://github.com/kalu-lubbu/HOOBANK"
     },
     {
       "title": "Training Model",
       "description": "Using a 'closed-form' equation that directly computes the model parameters that best fit the model to the training set (i.e., the model parameters that minimize the cost function over the training set). \nUsing an iterative optimization approach called gradient descent (GD).",
-      "src": "/public/training_model.webp",
+      "src": "/training_model.webp",
       "link": "https://github.com/kalu-lubbu/Training_Models.git"
     },
 
     {
       "title": "library Managment System",
       "description": "Library Management System written in java This is a shared librabry management system. Its exact purpose is to be used in an actual library, in which in order to borrow a book, you should give books to the library to be borrowed by other users. It is in early development phase",
-      "src": "/public/library.webp",
+      "src": "/library.webp",
       "link": "https://github.com/mgarikalfn/library-management-system.git"
     }
   ]
